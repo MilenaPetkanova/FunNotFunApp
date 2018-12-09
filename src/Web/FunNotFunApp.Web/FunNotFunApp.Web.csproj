@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>aspnet-FunNotFunApp.Web-F33F3739-E03F-4A2E-82AD-6AAFB28AFBA0</UserSecretsId>
+    <UserSecretsId>aspnet-FunNotFunApp.Web-A87EF40C-60EC-4E98-9357-408E7E2990FD</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
